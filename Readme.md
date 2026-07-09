@@ -5,6 +5,7 @@
 > **Prepared for:** Enterprise Architecture Review Board
 
 ---
+**[ COMMING SOON ]**
 
 ## Table of Contents
 
@@ -1163,7 +1164,7 @@ MEERU's Geospatial Intelligence (GEOINT) module delivers comprehensive location-
 
 ---
 
-## Contact & Support
+## Contact & Support [Purchased.]
 
 - **Architecture Review Board:** architecture@meeru.platform
 - **Security Team:** security@meeru.platform
